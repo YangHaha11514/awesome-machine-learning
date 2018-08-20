@@ -2,6 +2,7 @@ Blogs/Podcasts
 ===============
 
 [Hacker News for Data Science](http://www.datatau.com/news)
+[LightTag's Labeled Data Blog](https://lighttag.io/blog)
 
 Podcasts
 --------
@@ -24,8 +25,12 @@ Podcasts
 
 [TWIMLAI](https://twimlai.com/shows/)
 
+[Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
+
 Data Science / Statistics
 -------------------------
+
+https://ahmedbesbes.com/
 
 https://jeremykun.com/
 
@@ -79,7 +84,7 @@ http://www.sumsar.net/
 
 https://www.countbayesie.com
 
-http://karpathy.github.io/
+http://karpathy.github.io/  https://medium.com/@karpathy
 
 http://blog.kaggle.com/
 
@@ -95,6 +100,14 @@ http://www.dataschool.io/
 
 http://www.datasciencecentral.com
 
+https://mubaris.com
+
+https://distill.pub
+
+http://blog.shakirm.com/
+
+http://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html
+
 Math
 ----
 
@@ -108,6 +121,9 @@ https://petewarden.com/
 
 http://mrtz.org/blog/
 
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos
+
+https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/videos
 
 Security Related
 ----------------
